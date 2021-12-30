@@ -30,3 +30,4 @@
 - `pandas`
 - `numpy`
 - `matplotlib`
+- `scipy`
