@@ -13,4 +13,4 @@
 
 ## Использованные библиотеки
 -`pandas`
-`matplotlib`
+- `matplotlib`
