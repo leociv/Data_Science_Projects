@@ -50,7 +50,7 @@
 **Проекты по теме**
 
 1. [Рекомендации тарифов пользователям телеком компании](https://github.com/leociv/Data_Science_Projects/tree/main/Introduction_to_the_machine_learning)
-2. [Прогнозирование оттока клиентов](https://github.com/leociv/Data_Science_Projects/tree/main/Supervised_learning
+2. [Прогнозирование оттока клиентов](https://github.com/leociv/Data_Science_Projects/tree/main/Supervised_learning)
 3. [Выбор локации для скважины](https://github.com/leociv/Data_Science_Projects/tree/main/Machine_learning_in_business)
 4. [Восстановление золота из руды](https://github.com/leociv/Data_Science_Projects/tree/main/Project_2)
 5. [Защита персональных данных клиентов](https://github.com/leociv/Data_Science_Projects/tree/main/Linear_algebra)
