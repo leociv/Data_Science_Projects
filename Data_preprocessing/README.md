@@ -1,3 +1,3 @@
-# Project_name
+# Исследование надежности заемщиков
 
 Project description
